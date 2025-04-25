@@ -39,19 +39,19 @@ Some ways to get started with this repository:
 
 ## 4. How to Use the Data
 
-- Use `compiled_BDNF_expression.csv` for:
+- **Use `compiled_BDNF_expression.csv` for:**
   - Statistical analysis of BDNF expression across brain regions.
   - Visualization projects in neuroscience or data science.
   - Comparative studies involving other genes or brain structures.
 
-- To recreate or modify the dataset:
+- **To recreate or modify the dataset:**
   - Open `Gene_Expression_Compilation.ipynb`.
   - Follow the documented steps to filter for the **BDNF** gene, clean the data, and export a new subset.
   - You can replace **BDNF** with any other gene listed in the original dataset for further analysis. This flexibility allows users to adapt the process for a wide range of gene expression studies.
 
 ## 5. Help & Support
 
-If you have any questions or need assistance with using this dataset or notebook:
+If you have any questions or need assistance with navigating or using this repository:
 
 - Open an issue in this GitHub repository.
 - Contact the maintainer at dakshamd@ad.unc.edu or via GitHub [@dakshamd](https://github.com/dakshamd).
@@ -60,6 +60,4 @@ Contributions, suggestions, or improvements are always welcome!
 
 ## 6. Contributors
 
-- Dataset Compilation, Documentation, and Repository Maintenance by **Daksha Mohan**.
-
-This repository was created as part of a data compilation project focused on the role of gene expression in neuroscience research. It is maintained to encourage further exploration of BDNF and similar gene datasets.
+Dataset Compilation, Documentation, and Repository Maintenance by **Daksha Mohan**.
