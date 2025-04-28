@@ -36,6 +36,7 @@ Some ways to get started with this repository:
 - **Access the data:** Open the file `compiled_BDNF_expression(Final).csv` in your preferred tool for data analysis (Python, R, etc.).
 
 - **Reproduce or modify the data:** Open the Notebook `BDNF_Data_Compilation_Notebook.ipynb` to see how the data was compiled and follow the step-by-step instructions listed here to modify or reproduce the dataset.
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eDvoeMAmH7NBi9yztqk-t492TJJA2yYV)
 
 ## 4. How to Use the Data
 
