@@ -2,7 +2,11 @@
 
 This folder contains both raw and processed data files related to **BDNF** gene expression in mouse brain regions.
 
-## Files Included:
+## Table of Contents
+
+1. 
+
+## 1. Files Included
 
 - **Raw_Datasets.zip**  
   - Contains the original raw datasets downloaded from the Allen Mouse Brain Atlas.
@@ -13,10 +17,10 @@ This folder contains both raw and processed data files related to **BDNF** gene 
   - A cleaned and curated dataset focused exclusively on the BDNF gene expression values.
   - This file was generated using the notebook in the `documentation` folder.
 
-## Data Source:
+## 2. Data Source
 - All raw data files were sourced from the [Allen Mouse Brain Atlas](https://neuroinformatics.nl/HBP/ABA_mouse/).
 
-## Usage Notes:
+## 3. Usage Notes
 - **For Reproducibility**: Use **Raw_Datasets.zip** to recreate the subset.
 - **For Analysis**: Use **bdnf_expression_subset.csv** for focused studies on BDNF expression.
 - Please cite the Allen Brain Atlas if using these data files in your research.
