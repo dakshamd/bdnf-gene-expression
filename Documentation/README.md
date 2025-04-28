@@ -4,9 +4,9 @@ This folder contains the instructional notebook used to compile the BDNF gene ex
 
 ## Table of Contents
 
-1. [Files Included] (#1
-2. [Purpose] (#2
-3. [Usage Notes] (#3
+1. [Files Included](#1-files-included)
+2. [Purpose](#2-purpose)
+3. [Usage Notes](#3-usage-notes)
 
 ## 1. Files Included
 
