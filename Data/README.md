@@ -15,7 +15,7 @@ This folder contains both raw and processed data files related to **BDNF** gene 
   - These files include comprehensive gene expression data across multiple genes and brain regions.
   - Use these files only if you want to explore or replicate the full data processing pipeline.
 
-- **bdnf_expression_subset.csv**  
+- **compiled_BDNF_expression(Final).csv**  
   - A cleaned and curated dataset focused exclusively on the **BDNF** gene expression values.
   - This file was generated using the instructions in the Google Colab notebook, which can be found in the `documentation` folder.
 
@@ -24,5 +24,5 @@ This folder contains both raw and processed data files related to **BDNF** gene 
 
 ## 3. Usage Notes
 - **For Reproduction**: Use **Raw_Datasets.zip** and **BDNF_Data_Compilation_Notebook.ipynb** to recreate the subset.
-- **For Analysis**: Use **bdnf_expression_subset.csv** for focused studies on BDNF expression.
+- **For Analysis**: Use **compiled_BDNF_expression(Final).csv** for focused studies on BDNF expression.
 - Please cite the Allen Mouse Brain Atlas if using these data files in your research.
