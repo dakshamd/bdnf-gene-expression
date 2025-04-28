@@ -20,4 +20,5 @@ This folder contains the instructional notebook used to compile the BDNF gene ex
 
 ## 3. Usage Notes
 - Open **BDNF_Data_Compilation_Notebook.ipynb** in Google Colab to follow the data processing steps.
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1eDvoeMAmH7NBi9yztqk-t492TJJA2yYV)
 - Use **Raw_Datasets.zip** from the `data` folder for full replication of the dataset.
