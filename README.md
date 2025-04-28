@@ -33,19 +33,19 @@ Some ways to get started with this repository:
 - **Download or clone the repository to your local machine:** Click the green **Code** button above and select **Download ZIP**, or use Git:
 `git clone https://github.com/dakshamd/bdnf-gene-expression.git`
      
-- **Access the data:** Open the file `compiled_BDNF_expression (Final).csv` in your preferred tool for data analysis (Python, R, etc.).
+- **Access the data:** Open the file `compiled_BDNF_expression(Final).csv` in your preferred tool for data analysis (Python, R, etc.).
 
-- **Reproduce or modify the data:** Open the Notebook `Gene_Expression_Compilation_Notebook.ipynb` to see how the data was compiled and follow the step-by-step instructions listed here to modify or reproduce the dataset.
+- **Reproduce or modify the data:** Open the Notebook `BDNF_Data_Compilation_Notebook.ipynb` to see how the data was compiled and follow the step-by-step instructions listed here to modify or reproduce the dataset.
 
 ## 4. How to Use the Data
 
-- **Use `compiled_BDNF_expression.csv` for:**
+- **Use `compiled_BDNF_expression(Final).csv` for:**
   - Statistical analysis of BDNF expression across brain regions.
   - Visualization projects in neuroscience or data science.
   - Comparative studies involving other genes or brain structures.
 
 - **To recreate or modify the dataset:**
-  - Open `Gene_Expression_Compilation.ipynb`.
+  - Open `BDNF_Data_Compilation_Notebook.ipynb`.
   - Follow the documented steps to filter for the **BDNF** gene, clean the data, and export a new subset.
   - You can replace **BDNF** with any other gene listed in the original dataset for further analysis. This flexibility allows users to adapt the process for a wide range of gene expression studies.
 
